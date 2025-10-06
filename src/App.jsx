@@ -24,12 +24,12 @@ export default function App() {
             <li><span className='font-semibold'>Data Engineering: </span>I engineered a data processing pipeline in Python to integrate and analyze a large-scale dataset.</li>
           </ul>
           <div className='flex gap-x-5 mt-3'>
-            <a href='https://github.com/oscarzzq' target='_blank'><img src='public/github-mark.svg' alt='Github logo' class='w-15' ></img></a>
-            <a href='https://www.linkedin.com/in/oscar-ziqian-zhang-91599324a/' target='_blank'><img src='public/InBug-Black.png' alt='Linkedin logo' className='h-15'></img></a>
+            <a href='https://github.com/oscarzzq' target='_blank'><img src='/github-mark.svg' alt='Github logo' class='w-15' ></img></a>
+            <a href='https://www.linkedin.com/in/oscar-ziqian-zhang-91599324a/' target='_blank'><img src='/InBug-Black.png' alt='Linkedin logo' className='h-15'></img></a>
           </div>
         </div>
         <div className='w-80 h-80 rounded-full overflow-hidden'>
-          <img src='public/myphoto.jpg' alt='Photo of Oscar Zhang' class='w-full h-full object-cover object-left'></img>
+          <img src='/myphoto.jpg' alt='Photo of Oscar Zhang' class='w-full h-full object-cover object-left'></img>
         </div>
       </hero>
       <div className='flex flex-col gap-y-8'>
@@ -104,7 +104,7 @@ export default function App() {
           <p className='text-lg'>Download resume</p>
         </a>
         <div className='flex gap-x-5 mt-3'>
-          <a href='https://github.com/oscarzzq' target='_blank'><img src='public/github-mark.svg' alt='Github logo' class='w-15' ></img></a>
+          <a href='https://github.com/oscarzzq' target='_blank'><img src='/github-mark.svg' alt='Github logo' class='w-15' ></img></a>
           <a href='https://www.linkedin.com/in/oscar-ziqian-zhang/' target='_blank'><img src='public/InBug-Black.png' alt='Linkedin logo' className='h-15'></img></a>
         </div>
       </div>
