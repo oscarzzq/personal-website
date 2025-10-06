@@ -105,7 +105,7 @@ export default function App() {
         </a>
         <div className='flex gap-x-5 mt-3'>
           <a href='https://github.com/oscarzzq' target='_blank'><img src='/github-mark.svg' alt='Github logo' class='w-15' ></img></a>
-          <a href='https://www.linkedin.com/in/oscar-ziqian-zhang/' target='_blank'><img src='public/InBug-Black.png' alt='Linkedin logo' className='h-15'></img></a>
+          <a href='https://www.linkedin.com/in/oscar-ziqian-zhang/' target='_blank'><img src='/InBug-Black.png' alt='Linkedin logo' className='h-15'></img></a>
         </div>
       </div>
       <footer className='flex justify-center items-center'>
