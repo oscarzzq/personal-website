@@ -1,16 +1,47 @@
-# React + Vite
+# **Oscar Zhang \- Personal Portfolio Website**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for my personal portfolio website, designed to showcase my skills, projects, and professional experience. The site serves as a central hub for my work as a Computer Science student at UC Berkeley.  
+**Live Site:** [**oscarzhang.vercel.app**](https://oscarzhang.vercel.app/)
 
-Currently, two official plugins are available:
+## **About This Project**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This portfolio was built from scratch to create a clean, modern, and fully responsive online presence. It highlights my journey in tech, featuring a collection of my work in full-stack development, machine learning, and data engineering. The goal was to build a fast, dynamic, and visually appealing site that effectively communicates my capabilities to potential employers and collaborators.
 
-## React Compiler
+## **Technologies Used**
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was built with a modern frontend stack, leveraging the following technologies:
 
-## Expanding the ESLint configuration
+* [**React**](https://react.dev/): A JavaScript library for building dynamic user interfaces.  
+* [**Vite**](https://vitejs.dev/): A next-generation frontend build tool that provides a faster and leaner development experience.  
+* [**Tailwind CSS**](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom, responsive designs without leaving the HTML.  
+* [**JavaScript (ES6+)**](https://www.javascript.com/): The core programming language for the site's functionality.  
+* [**Vercel**](https://vercel.com/): The platform used for continuous integration and deployment, enabling seamless updates from the GitHub repository.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## **Features**
+
+* **Responsive Design**: The UI is fully responsive and optimized for a seamless experience on desktops, tablets, and mobile devices using Tailwind CSS's utility classes.  
+* **Dynamic UI**: Built with React components for a modular and maintainable codebase.  
+* **Project Showcase**: A dedicated section to display my key projects with descriptions, tech stacks, and links to live demos or source code.  
+* **Professional Contact Section**: Includes links to my GitHub and LinkedIn profiles, a downloadable resume, and a secure contact method.
+
+## **Getting Started**
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**  
+   git clone \[https://github.com/oscarzzq/personal-website.git\](https://github.com/oscarzzq/personal-website.git)
+
+2. **Navigate to the project directory:**  
+   cd personal-website
+
+3. **Install the dependencies:**  
+   npm install
+
+4. **Start the development server:**  
+   npm run dev
+
+   The application will be available at http://localhost:5173.
+
+## **Deployment**
+
+The site is automatically deployed via **Vercel**. Any push to the main branch will trigger a new build and deploy the latest version to the live URL.  
